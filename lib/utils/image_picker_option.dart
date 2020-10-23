@@ -1,0 +1,5 @@
+enum ImagePickerOption {
+
+  gallery,
+  camera
+}
